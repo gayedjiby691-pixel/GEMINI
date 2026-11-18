@@ -3,7 +3,7 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   Mail, Linkedin, Github, Download, ChevronDown,
-  Send, MapPin, Briefcase, ArrowUpRight,
+  Send, ArrowUpRight,
 } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
